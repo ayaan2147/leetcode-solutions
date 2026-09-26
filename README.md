@@ -1,6 +1,6 @@
 # leetcode-solutions
 
-**Name:** Mohaammed Ayaan Khalid Shaikh
+**Name:** Mohammed Ayaan Khalid Shaikh
 **Roll Number:** R25EJ074
 **Course:** B.Tech CSIT
 **Activity:** 4 — LeetCode Practice & Portfolio Integration
